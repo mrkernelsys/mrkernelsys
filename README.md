@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=80&color=FF0000&center=true&vCenter=true&width=1000&lines=Hello!" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=HELLO&fontSize=120&fontColor=ff0000&color=000000" />
 </p>
 
 <p align="center">
