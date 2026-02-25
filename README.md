@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://linkstorage.linkfire.com/medialinks/images/c12bcafa-6241-4c58-a80a-cbae5e359c14/artwork-600x315.jpg" width="234">
+  <img src="https://linkstorage.linkfire.com/medialinks/images/c12bcafa-6241-4c58-a80a-cbae5e359c14/artwork-600x315.jpg" width="264">
 </p>
 
 <p align="center">
