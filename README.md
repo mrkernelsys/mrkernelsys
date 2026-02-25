@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://youtu.be/3C6smbJdKyY?si=EwpYVZkhxBHgplz5">
-    Play song!
+    Play song "All i want is you - Rebzyyx"!
   </a>
 </p>
 
