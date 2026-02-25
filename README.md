@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/3C6smbJdKyY?si=EwpYVZkhxBHgplz5">
+  <a href="https://youtube.com./3C6smbJdKyY?si=EwpYVZkhxBHgplz5">
     Play song "All i want is you - Rebzyyx"!
   </a>
 </p>
@@ -26,6 +26,9 @@
   <img src="https://t2.genius.com/unsafe/230x230/https%3A%2F%2Fimages.genius.com%2F314b5e9b4b52df169dbebafc75e77d29.1000x1000x1.png" width="364">
 </p>
 
+</p>
+  <h1> </h1>
+</p>
 
 #### Programador e CyberSec, usuario linux e windows 7 para baixo.
 #### Sistemas favoritos: Debian, WindowsXP, Windows 95.
