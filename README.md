@@ -3,9 +3,16 @@
 </p>
 
 <p align="center">
+  <a href="https://youtu.be/3C6smbJdKyY?si=EwpYVZkhxBHgplz5">
+    🎵 Clique para ouvir
+  </a>
+</p>
+
+<p align="center">
   <img src="https://t2.genius.com/unsafe/230x230/https%3A%2F%2Fimages.genius.com%2F314b5e9b4b52df169dbebafc75e77d29.1000x1000x1.png" width="400">
 </p>
 
 
-### Programador e CyberSec, usuario linux e windows 7 para baixo.
-### Sistemas favoritos: Debian, WindowsXP, Windows 95.
+#### Programador e CyberSec, usuario linux e windows 7 para baixo.
+#### Sistemas favoritos: Debian, WindowsXP, Windows 95.
+#### 
