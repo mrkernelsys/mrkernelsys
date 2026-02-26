@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com./3C6smbJdKyY?si=EwpYVZkhxBHgplz5">
+  <a href="https://youtu.be/3C6smbJdKyY?si=nNXeOoe99qjbwxn3">
     Play song "All i want is you - Rebzyyx"!
   </a>
 </p>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <h1>________________________________________________________</h1>
+  <h1>__________________________</h1>
 </p>
   <h1> </h1>
 </p>
