@@ -1,3 +1,7 @@
+
+#### Programador e CyberSec, usuario linux e windows 7 para baixo.
+#### Sistemas favoritos: Debian, WindowsXP, Windows 95.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Hello!&fontSize=150&fontColor=94080B&color=ffffff" />
 </p>
@@ -12,8 +16,8 @@
   <img src="https://linkstorage.linkfire.com/medialinks/images/c12bcafa-6241-4c58-a80a-cbae5e359c14/artwork-600x315.jpg" width="296">
 </p>
 
-<p align="center">
-  <h1>__________________________</h1>
+</p>
+  <h1></h1>
 </p>
   <h1> </h1>
 </p>
@@ -29,7 +33,3 @@
 </p>
   <h1> </h1>
 </p>
-
-#### Programador e CyberSec, usuario linux e windows 7 para baixo.
-#### Sistemas favoritos: Debian, WindowsXP, Windows 95.
-#### 
