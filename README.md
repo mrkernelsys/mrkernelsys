@@ -1,16 +1,6 @@
 ### Programador e CyberSec, usuário Linux e Windows 7 para baixo.
 ### Sistemas favoritos: Debian, Windows XP, Windows 95.
 
-<!-- TELA INICIAL WINDOWS XP -->
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2013/08/28/12/48/windows-xp-176873_1280.png" width="100%">
-</p>
-
-<!-- BARRA DE LOADING AZUL -->
-<p align="center">
-  <img src="https://i.imgur.com/6s9Yc1J.png" width="500">
-</p>
-
 <!-- BANNER HELLO FRIEND (Fonte chique, vermelho escuro) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=264&text=Hello%20Friend%21&fontSize=120&fontColor=8B0000&color=ffffff&font=Playfair+Display" />
