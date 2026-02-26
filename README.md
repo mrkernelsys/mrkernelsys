@@ -3,12 +3,12 @@
 
 <!-- TELA INICIAL WINDOWS XP -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Windows_XP_Professional_boot.png" width="100%">
+  <img src="https://cdn.pixabay.com/photo/2013/08/28/12/48/windows-xp-176873_1280.png" width="100%">
 </p>
 
-<!-- BARRA DE LOADING AZUL (simulação) -->
+<!-- BARRA DE LOADING AZUL -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Windows_XP_startup_bar.png" width="500">
+  <img src="https://i.imgur.com/6s9Yc1J.png" width="500">
 </p>
 
 <!-- BANNER HELLO FRIEND (Fonte chique, vermelho escuro) -->
@@ -25,7 +25,7 @@
 
 <!-- IMAGEM DO ARTISTA -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Link_do_Zap_cover.jpg" width="296">
+  <img src="https://i.imgur.com/4UfB9Rn.png" width="296">
 </p>
 
 <!-- ARTISTAS FAVORITOS -->
@@ -33,5 +33,5 @@
 
 <!-- IMAGEM ADICIONAL -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Rebzyyx_album_cover.png" width="364">
+  <img src="https://i.imgur.com/MG5VE1b.png" width="364">
 </p>
