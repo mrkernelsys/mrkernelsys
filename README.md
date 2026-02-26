@@ -20,6 +20,10 @@
 </p>
 
 </p>
+  <h2>Artistas favoritos: Link do zap, Jidoki, Linu, Rebzyyx, Azaakuma, YuriChan.</h2>
+</p>
+
+</p>
   <h1></h1>
 </p>
   <h1> </h1>
