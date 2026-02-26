@@ -8,7 +8,7 @@
 
 <!-- BARRA DE LOADING AZUL (simulação) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&height=20&width=500&text=Loading...&color=0000FF&fontColor=FFFFFF&font=Press+Start+2P" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Windows_XP_startup_bar.png" width="500">
 </p>
 
 <!-- BANNER HELLO FRIEND (Fonte chique, vermelho escuro) -->
@@ -25,7 +25,7 @@
 
 <!-- IMAGEM DO ARTISTA -->
 <p align="center">
-  <img src="https://linkstorage.linkfire.com/medialinks/images/c12bcafa-6241-4c58-a80a-cbae5e359c14/artwork-600x315.jpg" width="296">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Link_do_Zap_cover.jpg" width="296">
 </p>
 
 <!-- ARTISTAS FAVORITOS -->
@@ -33,5 +33,5 @@
 
 <!-- IMAGEM ADICIONAL -->
 <p align="center">
-  <img src="https://t2.genius.com/unsafe/230x230/https%3A%2F%2Fimages.genius.com%2F314b5e9b4b52df169dbebafc75e77d29.1000x1000x1.png" width="364">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Rebzyyx_album_cover.png" width="364">
 </p>
