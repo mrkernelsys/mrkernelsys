@@ -6,6 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Hello Friend!&fontSize=150&fontColor=94080B&color=ffffff" />
 </p>
 
+<p>
+  <h1><h1>
+<p>
 <p align="center">
   <a href="https://youtu.be/3C6smbJdKyY?si=nNXeOoe99qjbwxn3">
     Play song "All i want is you - Rebzyyx"!
