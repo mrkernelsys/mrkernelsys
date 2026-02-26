@@ -3,7 +3,7 @@
 
 <!-- TELA INICIAL WINDOWS XP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrkernelsys/mrkernelsys/main/xpboot.png" width="100%">
+  <img src="https://i.imgur.com/wEKmC5H.png" width="100%">
 </p>
 
 <!-- BARRA DE LOADING AZUL (simulação) -->
