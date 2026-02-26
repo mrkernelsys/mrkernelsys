@@ -1,9 +1,9 @@
 
-#### Programador e CyberSec, usuario linux e windows 7 para baixo.
-#### Sistemas favoritos: Debian, WindowsXP, Windows 95.
+### Programador e CyberSec, usuario linux e windows 7 para baixo.
+### Sistemas favoritos: Debian, WindowsXP, Windows 95.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Hello!&fontSize=150&fontColor=94080B&color=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Hello Friend!&fontSize=150&fontColor=94080B&color=ffffff" />
 </p>
 
 <p align="center">
