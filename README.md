@@ -3,7 +3,7 @@
 ### Sistemas favoritos: Debian, WindowsXP, Windows 95.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&text=Hello%20Friend%21&fontSize=100&fontColor=94080B&color=ffffff&font=Playfair+Display****" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=264&text=Hello%20Friend%21&fontSize=100&fontColor=94080B&color=ffffff&font=Playfair+Display****" />
 </p>
 
 <p>
