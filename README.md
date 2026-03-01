@@ -1,6 +1,3 @@
-adiciona no meu codigo:
-
-
 ### Programador e CyberSec, usuario linux e windows 7 para baixo.
 ### Sistemas favoritos: Debian, WindowsXP, Windows 95.
 
